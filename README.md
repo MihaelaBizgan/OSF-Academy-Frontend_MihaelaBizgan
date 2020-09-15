@@ -1,2 +1,1 @@
-# OSF-Digital-HTML
-Exercitii HTML Treehouse
+# OSF-Academy Final Project
